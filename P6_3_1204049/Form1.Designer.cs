@@ -335,7 +335,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Master Mahasiswa";
             ((System.ComponentModel.ISupportInitialize)(this.epCorrect)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.epWarning)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.epWrong)).EndInit();
